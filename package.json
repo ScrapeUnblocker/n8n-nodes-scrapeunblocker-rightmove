@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-rightmove",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Rightmove Property Scraper Apify Actor by ScrapeUnblocker: UK property listings with price, bedrooms, bathrooms, address, coordinates and agent as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-rightmove#readme",
