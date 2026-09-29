@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-rightmove.rightmovePropertyScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-rightmove#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-rightmove#readme"
+			}
+		]
+	},
+	"alias": [
+		"rightmove",
+		"real estate",
+		"property",
+		"houses",
+		"flats",
+		"rent",
+		"uk",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
